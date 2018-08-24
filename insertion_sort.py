@@ -8,8 +8,6 @@ def insertion_sort(A):
         A[i+1] = chave
     return A
 
-
-
 if __name__=="__main__":
     x = [10,20,-1,19,40]
     insertion_sort(x)

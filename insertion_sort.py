@@ -1,3 +1,5 @@
+
+
 def insertion_sort(A):
     for j in range(0, len(A)):
         chave = A[j]
